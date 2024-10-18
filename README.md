@@ -31,7 +31,7 @@ SocialQuery is built using the tech stack :
 ![image](https://github.com/VineeTagarwaL-code/DevTest/assets/91052168/447a6558-bff4-4a39-b274-774a9dce394d)
 ![s1](https://github.com/VineeTagarwaL-code/DevTest/assets/91052168/90338cfb-f3fa-492f-817e-10c0c30ba0c5)
 ![s2](https://github.com/VineeTagarwaL-code/DevTest/assets/91052168/43bd9396-ad72-4bfc-a33e-555a38f49d7b)
-![s3](https://github.com/VineeTagarwaL-code/DevTest/assets/91052168/bc6b2d60-ecb4-4337-8345-18c3e6346e05)
+
 
 
 
